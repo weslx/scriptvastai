@@ -27,20 +27,12 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     "https://github.com/yolain/ComfyUI-Easy-Use"
     "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
-    "https://github.com/jags111/efficiency-nodes-comfyui"
-    "https://github.com/WASasquatch/was-node-suite-comfyui"
-    "https://github.com/city96/ComfyUI-GGUF"
-    "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
-    "https://github.com/jamesWalker55/comfyui-various"
-    "https://github.com/alt-key-project/comfyui-dream-project"
-    "https://github.com/kijai/ComfyUI-KJNodes"
-    "https://github.com/idrirap/ComfyUI-Lora-Auto-Trigger-Words"
 )
 
 CHECKPOINT_MODELS=(
    # "https://civitai.com/api/download/models/620368"
    # "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
-  # "https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors"
+   "https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors"
   # "https://huggingface.co/SG161222/RealVisXL_V5.0_Lightning/resolve/main/RealVisXL_V5.0_Lightning_fp16.safetensors"
     #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
    # "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
@@ -52,7 +44,7 @@ UNET_MODELS=(
 )
 
 LORA_MODELS=(
-    "https://civitai.com/api/download/models/804967"
+    "https://civitai.com/api/download/models/200255"
 )
 
 VAE_MODELS=(
